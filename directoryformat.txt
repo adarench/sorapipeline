@@ -1,0 +1,13 @@
+#Planned file structure
+
+/sorapipeline
+|-- .github
+|   |-- workflows
+|       |-- ci.yml
+|-- src
+|-- public
+|-- tests
+|-- .eslintrc.json
+|-- prettier.config.js
+|-- package.json
+|-- README.md
